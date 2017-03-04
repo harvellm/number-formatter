@@ -1,0 +1,26 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harvellm/number-formatter.git"
+  },
+  "author": "Matthew Harvell <matthew.harvell@matthewharvell.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harvellm/number-formatter/issues"
+  },
+  "homepage": "https://github.com/harvellm/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
